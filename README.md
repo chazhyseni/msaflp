@@ -1,2 +1,2 @@
 # msaflp
-Reticulitermes flavipes MS-AFLP: data, scripts, results
+*Reticulitermes flavipes* MS-AFLP: data, scripts, results
